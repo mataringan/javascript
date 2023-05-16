@@ -29,5 +29,4 @@ const myImage = document.getElementById("myImage");
 buttonPatrick.addEventListener("click", function () {
   myImage.src =
     "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/640px-Patrick_Star.svg.png";
-  myImage.style.width = "300px";
 });
